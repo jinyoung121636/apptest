@@ -12,7 +12,8 @@ public class app2 {
             if (order.equals("종료")) {
                 break;
             }
-            System.out.printf("입력받은 명령어: %s\n", order);
+
+
         }
     }
 }
