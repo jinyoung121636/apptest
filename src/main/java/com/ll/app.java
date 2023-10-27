@@ -49,7 +49,7 @@ public class app {
                         System.out.println((삭제번호+1)+"명언은 존재하지 않습니다.");
                     }
                 } catch(NumberFormatException e) {
-                    System.out.println("명언은 존재하지 않습니다.");
+//                       삭제번호 = "명언은 존재하지 않습니다.";
                 }
             } else {
                 System.exit(0);
